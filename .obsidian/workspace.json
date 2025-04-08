@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4c4c0170ac8247fe",
+        "id": "50f93ec3aef921a6",
         "type": "tabs",
         "children": [
           {
-            "id": "1f8442c16f982076",
+            "id": "29dd32feae7aad28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-End/工作前端工作笔记/git常用命令.md",
+                "file": "Front-End/server/远程服务器搭建.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git常用命令"
-            }
-          },
-          {
-            "id": "19ed9beb41a714bd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Front-End/React/3_react生命周期(新).png"
-              },
-              "icon": "lucide-image",
-              "title": "3_react生命周期(新)"
+              "title": "远程服务器搭建"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nginx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,48 +163,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19ed9beb41a714bd",
+  "active": "29dd32feae7aad28",
   "lastOpenFiles": [
+    "Front-End/工作前端工作笔记/开发npm包的一些注意事项.md",
+    "Interview/2021面试总结1.md",
+    "Front-End/工作前端工作笔记/git常用命令.md",
+    "Front-End/工作前端工作笔记/Hugo学习路线.md",
+    "Front-End/工作前端工作笔记/app与h5交互遇到的问题汇总.md",
+    "Front-End/工作前端工作笔记/重构-研读.md",
+    "Front-End/工作前端工作笔记/学习笔记.md",
+    "Front-End/工作前端工作笔记/前端设计整理文档.md",
+    "Front-End/工作前端工作笔记/如何在gitlab上发布npm包并如何安装内网依赖.md",
+    "Front-End/工作前端工作笔记/前端埋点方案记录.md",
+    "LeetCode/REAMDE.md",
+    "Front-End/http/axios封装.md",
+    "Front-End/React/3_react生命周期(新).png",
     "Front-End/JavaScript/index.md",
     "Front-End/TypeScript/index.md",
     "Front-End/React/2_react生命周期(旧).png",
     "Front-End/工作前端工作笔记/axios封装.md",
     "Front-End/工作前端工作笔记/fetch封装实例.md",
-    "Front-End/工作前端工作笔记/如何在gitlab上发布npm包并如何安装内网依赖.md",
     "img/c0a5bb76ccb0eb25dd41a7c435a85dec_720.png",
     "img/5F72DAF283406A8B36FA769F3636FF84.png",
     "c0a5bb76ccb0eb25dd41a7c435a85dec_720.png",
     "5F72DAF283406A8B36FA769F3636FF84.png",
-    "Front-End/工作前端工作笔记/开发npm包的一些注意事项.md",
-    "Front-End/工作前端工作笔记/git常用命令.md",
     "Front-End/工作前端工作笔记/vscode小知识.md",
     "Front-End/工作前端工作笔记/MD文档api.md",
     "Front-End/计算机基础/设计模式研读.md",
     "Front-End/计算机基础/圖形語法-The Grammar of Graphics (Leland Wilkinson, D. Wills, D. Rope, A. Norton etc.).md",
     "Front-End/计算机基础/面向对象编程（Object Oriented Analysis and Design with Applications.）.md",
-    "Front-End/工作前端工作笔记/Hugo学习路线.md",
-    "Front-End/工作前端工作笔记/学习笔记.md",
-    "Front-End/工作前端工作笔记/重构-研读.md",
-    "Front-End/工作前端工作笔记/前端埋点方案记录.md",
-    "Front-End/工作前端工作笔记/前端设计整理文档.md",
     "Back-End/Java/后端管理系统开发.md",
     "Front-End/服务器/远程服务器搭建.md",
     "Front-End/服务器/如何将本地文件copy到远程服务器.md",
     "Front-End/服务器/关于前端项目服务部署的一些相关知识.md",
     "图片URL.md",
-    "Front-End/工作前端工作笔记/app与h5交互遇到的问题汇总.md",
-    "Front-End/Nodejs/目录.md",
-    "Front-End/react-vue.md",
     "Untitled.canvas",
     "文学笔记/1.json",
-    "Visualization/README.md",
     "Other",
     "Front-End/服务器/img/Pasted image 20240806202546.png",
     "Pasted image 20240806202546.png",
     "Front-End/服务器/img/Pasted image 20240731140822.png",
     "Front-End/HTTP/img/24bbc0bf01d3806dc7de8fa16e3ab254.png",
     "Front-End/HTTP/img",
-    "Front-End/HTTP/24bbc0bf01d3806dc7de8fa16e3ab254.png",
     "Front-End/计算机基础/img",
     "进阶",
     "Front-End/Nodejs/进阶",
